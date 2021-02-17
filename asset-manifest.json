@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/syedsali/my-react-app.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/syedsali/my-react-app.git/static/js/main.9572ccba.chunk.js",
+    "main.js.map": "/syedsali/my-react-app.git/static/js/main.9572ccba.chunk.js.map",
+    "runtime-main.js": "/syedsali/my-react-app.git/static/js/runtime-main.12d3de7c.js",
+    "runtime-main.js.map": "/syedsali/my-react-app.git/static/js/runtime-main.12d3de7c.js.map",
+    "static/js/2.57912cdf.chunk.js": "/syedsali/my-react-app.git/static/js/2.57912cdf.chunk.js",
+    "static/js/2.57912cdf.chunk.js.map": "/syedsali/my-react-app.git/static/js/2.57912cdf.chunk.js.map",
+    "static/js/3.0ac1572d.chunk.js": "/syedsali/my-react-app.git/static/js/3.0ac1572d.chunk.js",
+    "static/js/3.0ac1572d.chunk.js.map": "/syedsali/my-react-app.git/static/js/3.0ac1572d.chunk.js.map",
+    "index.html": "/syedsali/my-react-app.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/syedsali/my-react-app.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.57912cdf.chunk.js.LICENSE.txt": "/syedsali/my-react-app.git/static/js/2.57912cdf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/syedsali/my-react-app.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12d3de7c.js",
+    "static/js/2.57912cdf.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9572ccba.chunk.js"
+  ]
+}
